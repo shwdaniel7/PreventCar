@@ -24,7 +24,7 @@ O PreventCar centraliza esse controle: cadastro de veículos e itens/peças, mon
 
 ## Modelo de negócio
 
-Modelo híbrido: assinatura recorrente (planos Free, Premium e Frota) combinada com comissão (8% a 12%, sujeita a validação comercial) sobre agendamentos concluídos em oficinas parceiras. Detalhes em [REQUISITOS.md](./REQUISITOS.md#regras-de-negócio).
+Modelo híbrido: assinatura recorrente (planos Free, Premium e Frota) combinada com comissão (8% a 12%, sujeita a validação comercial) sobre agendamentos concluídos em oficinas parceiras. Detalhes em [REQUISITOS.md](docs/REQUISITOS.md#regras-de-negócio).
 
 ## Stakeholders
 
@@ -44,8 +44,8 @@ Projeto em fase de **engenharia de requisitos e modelagem** (casos de uso, model
 
 ## Documentação
 
-- [REQUISITOS.md](./REQUISITOS.md) — requisitos funcionais, não funcionais e regras de negócio.
-- [CASOS_DE_USO.md](./CASOS_DE_USO.md) — atores e especificação dos casos de uso.
+- [REQUISITOS.md](docs/REQUISITOS.md) — requisitos funcionais, não funcionais e regras de negócio.
+- [CASOS_DE_USO.md](docs/CASOS_DE_USO.md) — atores e especificação dos casos de uso.
 
 ## Equipe
 

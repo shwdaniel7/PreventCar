@@ -58,4 +58,4 @@ Incluído no escopo do projeto:
 - Modelo de domínio (diagrama de classes) e modelo ER.
 - Diagramas de atividades, sequência e máquina de estados.
 
-Ver especificação detalhada dos casos de uso em [CASOS_DE_USO.md](./CASOS_DE_USO.md).
+Ver especificação detalhada dos casos de uso em [CASOS_DE_USO.md](docs/CASOS_DE_USO.md).
