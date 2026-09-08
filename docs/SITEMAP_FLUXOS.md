@@ -43,10 +43,9 @@ Fluxo para registrar uma nova manutenção de um veículo.
 | 1 | Acessar o Dashboard |
 | 2 | Ir para Manutenções |
 | 3 | Clicar em **+ Nova Manutenção** |
-| 4 | Preencher os dados |
-| 5 | Salvar o registro |
-| 6 | Verificar o registro na lista |
-| 7 | Finalizar o fluxo |
+| 4 | Preencher os dados e salvar |
+| 5 | Verificar o registro na lista |
+| 6 | Finalizar o fluxo |
 
 ![Fluxo 01 — Registro de manutenção](assets/fluxo-01-registro-manutencao.png)
 
@@ -83,10 +82,9 @@ Fluxo para adicionar um novo veículo à conta do usuário.
 | 1 | Acessar o Dashboard |
 | 2 | Ir para Meus Veículos |
 | 3 | Clicar em **+ Adicionar Veículo** |
-| 4 | Preencher os dados |
-| 5 | Salvar |
-| 6 | Verificar o veículo na lista |
-| 7 | Finalizar o fluxo |
+| 4 | Preencher os dados e salvar |
+| 5 | Verificar o veículo na lista |
+| 6 | Finalizar o fluxo |
 
 ![Fluxo 03 — Cadastro de veículo](assets/fluxo-03-cadastro-veiculo.png)
 
