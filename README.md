@@ -44,8 +44,9 @@ Projeto em fase de **engenharia de requisitos e modelagem** (casos de uso, model
 
 ## Documentação
 
-- [REQUISITOS.md](docs/REQUISITOS.md) — requisitos funcionais, não funcionais e regras de negócio.
+- [SITEMAP_FLUXOS.md](docs/SITEMAP_FLUXOS.md) — mapa do site (sitemap) e principais fluxos de navegação.
 - [CASOS_DE_USO.md](docs/CASOS_DE_USO.md) — atores e especificação dos casos de uso.
+- [REQUISITOS.md](docs/REQUISITOS.md) — requisitos funcionais, não funcionais e regras de negócio.
 
 ## Equipe
 
@@ -56,3 +57,4 @@ Projeto em fase de **engenharia de requisitos e modelagem** (casos de uso, model
 | Ana Luisa Silva Bezerra da Costa | Analista de Requisitos e Qualidade |
 | Marcia Aparecida Silva Bissaco | Orientadora |
 | Carla Fabiane Calixto da Silva Soares | Orientadora |
+| Francisco Douglas Lima Abreu | Orientador |
