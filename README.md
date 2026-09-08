@@ -57,3 +57,4 @@ Projeto em fase de **engenharia de requisitos e modelagem** (casos de uso, model
 | Ana Luisa Silva Bezerra da Costa | Analista de Requisitos e Qualidade |
 | Marcia Aparecida Silva Bissaco | Orientadora |
 | Carla Fabiane Calixto da Silva Soares | Orientadora |
+| Francisco Douglas Lima Abreu | Orientador |
