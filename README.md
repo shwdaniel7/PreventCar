@@ -44,8 +44,9 @@ Projeto em fase de **engenharia de requisitos e modelagem** (casos de uso, model
 
 ## Documentação
 
-- [REQUISITOS.md](./REQUISITOS.md) — requisitos funcionais, não funcionais e regras de negócio.
-- [CASOS_DE_USO.md](./CASOS_DE_USO.md) — atores e especificação dos casos de uso.
+- [REQUISITOS.md](docs/REQUISITOS.md) — requisitos funcionais, não funcionais e regras de negócio.
+- [CASOS_DE_USO.md](docs/CASOS_DE_USO.md) — atores e especificação dos casos de uso.
+- [SITEMAP_FLUXOS.md](docs/SITEMAP_FLUXOS.md) — mapa do site (sitemap) e principais fluxos de navegação.
 
 ## Equipe
 
